@@ -41,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/raspberrypiapp/templates/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+            <state relative-caret-position="307">
+              <caret line="101" column="56" lean-forward="true" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="constructora.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="constructora.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/raspberrypiapp/assets/css/constructora.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1789">
+            <state relative-caret-position="2019">
               <caret line="192" column="22" lean-forward="true" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
             </state>
           </provider>
@@ -69,8 +69,8 @@
         <option value="$PROJECT_DIR$/raspberrypiapp/raspberrypiapp/views.py" />
         <option value="$PROJECT_DIR$/raspberrypiapp/templates/pages/our_team.html" />
         <option value="$PROJECT_DIR$/raspberrypiapp/templates/pages/contact.html" />
-        <option value="$PROJECT_DIR$/raspberrypiapp/templates/pages/index.html" />
         <option value="$PROJECT_DIR$/raspberrypiapp/assets/css/constructora.css" />
+        <option value="$PROJECT_DIR$/raspberrypiapp/templates/pages/index.html" />
       </list>
     </option>
   </component>
@@ -83,9 +83,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2456" />
-    <option name="y" value="-21" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="301" />
+    <option name="y" value="-22" />
     <option name="width" value="960" />
     <option name="height" value="780" />
   </component>
@@ -175,7 +175,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -185,7 +185,7 @@
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22890624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15260416" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -256,17 +256,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raspberrypiapp/templates/pages/index.html">
+    <entry file="file://$PROJECT_DIR$/raspberrypiapp/assets/css/constructora.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+        <state relative-caret-position="2019">
+          <caret line="192" column="22" lean-forward="true" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/raspberrypiapp/assets/css/constructora.css">
+    <entry file="file://$PROJECT_DIR$/raspberrypiapp/templates/pages/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1789">
-          <caret line="192" column="22" lean-forward="true" selection-start-line="192" selection-start-column="22" selection-end-line="192" selection-end-column="22" />
+        <state relative-caret-position="307">
+          <caret line="101" column="56" lean-forward="true" selection-start-line="101" selection-start-column="56" selection-end-line="101" selection-end-column="56" />
         </state>
       </provider>
     </entry>
