@@ -4,7 +4,6 @@ from . import views
 from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
     url(r'^$', views.homepage),
     url(r'^our_team/$',views.ourTeam),
     url(r'^services/$', views.services),
