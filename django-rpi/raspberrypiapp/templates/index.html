@@ -1,3 +1,4 @@
+{% load static from staticfiles %}
 <!doctype html>
 <html>
 <head>
@@ -8,7 +9,9 @@
 
 <body>
 <div class="container">
-    <div class="header"><img class="logo" src="image/LOGO.png" alt="" width="150" height="" />
+    <div class="header">
+        {% load static %}
+        <img class="logo" src="{% static "LOGO.png" %}" alt="logo" width="150" height="" />
         <nav class="navigation">
             <ul class="navigation">
                 <li><a href="index.html" class="link"><span>HOME</span></a></li>
@@ -18,7 +21,7 @@
             </ul>
         </nav>
         <div class="fb">
-            <a href="https://www.facebook.com/RiosMacielConstructora/" target="#"><img src="image/Facebook.png" width="30" height="30"></a>
+            <a href="https://www.facebook.com/RiosMacielConstructora/" target="#"><img src="{% static "Facebook.png" %}" width="30" height="30"></a>
         </div>
     </div>
 
