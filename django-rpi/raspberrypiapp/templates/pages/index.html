@@ -103,6 +103,10 @@
         <p>Email: <input id="email_input" type="email"></p>
         <br>
         <input type="submit" id="submitButton">
+        <form method="post">
+            {% csrf_token%}
+            {{ form.as_p }}
+        </form>
     </div>
    <div>
    </div>
