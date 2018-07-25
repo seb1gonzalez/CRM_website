@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7618c8c-23fa-40ad-a436-1f90196ca1f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/django-rpi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/Facebook.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/LOGO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/Luis_Jesus_Workers.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/Luis_Tunner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/Newslwtter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/Quote.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/contactboxInfo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/fblogo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/headerBar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/members.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/serviceBanner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/swimpool1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/texture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailRicardo_Cathedral.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailRicardo_Luis.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailRicardo_TrainTracks.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailswim3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailswim4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumbnailswimpool1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/thumgNailswimpool2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/tuckbanner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/images/web.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/css/constructora.css" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/css/constructora.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,8 +20,17 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="506">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="constructora.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/css/constructora.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="222" column="1" lean-forward="true" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -92,6 +73,7 @@
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/contact.html" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html" />
+        <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/css/constructora.css" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" />
       </list>
     </option>
@@ -138,6 +120,14 @@
               <item name="raspberrypiapp" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CRM_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CRM_website" type="462c0819:PsiDirectoryNode" />
+              <item name="django-rpi" type="462c0819:PsiDirectoryNode" />
+              <item name="raspberrypiapp" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,18 +166,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532546600981</updated>
-      <workItem from="1532546606092" duration="586000" />
+      <workItem from="1532546606092" duration="1048000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586000" />
+    <option name="totallyTimeSpent" value="1048000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2125" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -213,13 +203,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -234,10 +217,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/css/constructora.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="222" column="1" lean-forward="true" selection-start-line="222" selection-start-column="1" selection-end-line="222" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="506">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>

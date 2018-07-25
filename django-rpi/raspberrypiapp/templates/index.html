@@ -1,5 +1,5 @@
 {% load static from staticfiles %}
-<!doctype html>
+<!doctype HTML>
 <html>
 <head>
     <meta charset="utf-8">
@@ -10,7 +10,7 @@
 <body>
 <div class="container">
     <div class="header">
-        {% load static %}
+
         <img class="logo" src="{% static "LOGO.png" %}" alt="logo" width="150" height="" />
         <nav class="navigation">
             <ul class="navigation">
@@ -27,6 +27,7 @@
 
 
     <div class="photo4">
+        <img src="{% static banner2.jpg %}" height="200px" width="600px">
         <h1 class="h1">Let Us Build For You</h1>
     </div>
 </div>
@@ -47,12 +48,12 @@
 </div>
 <div>
     <div class="nav2">
-        <a href="contact.html" target="#"><img scr= /><img src="image/Quote.png"  width="50" height="50" alt=""/></a>
+        <a href="contact.html" target="#"><img scr= /><img src="{% static Quote.png %}"  width="50" height="50" alt=""/></a>
         <div class="h4">FREE QUOTE </div>
     </div>
     <div>
         <div class="nav2">
-            <a href="contact.html" target="new"><img src="image/Newslwtter.png" width="50" height="50" alt=""/></a>
+            <a href="contact.html" target="new"><img src="{% static Newslwtter.png %}" width="50" height="50" alt=""/></a>
             <div class="h4">SIGN UP FOR OUR NEWS LETTER</div></div>
     </div>
 </div>
