@@ -234,7 +234,7 @@ img:hover {
 	float: left;
 	width: 100%;
 	height: 300px;
-	background: url(../images/serviceBanner.png);
+	background: url(serviceBanner.png);
 	background-repeat: no-repeat;
 	background-size:cover;
 }
