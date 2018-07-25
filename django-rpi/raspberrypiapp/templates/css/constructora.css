@@ -223,6 +223,12 @@ img:hover {
 	align-content: left;
 
 }
+.center_text_banner{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
 .bannerOurTeam{
 	float: left;
 	width: 100%;
