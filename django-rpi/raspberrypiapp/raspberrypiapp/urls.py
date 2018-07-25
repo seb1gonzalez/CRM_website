@@ -6,8 +6,8 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.homepage),
-    url(r'^team/',views.ourTeam),
-    url(r'^services/$', views.services),
-    url(r'^contact/$',views.contact)
+    url(r'^our_team/',views.ourTeam),
+    url(r'^services/', views.services),
+    url(r'^contact/',views.contact)
 ]
 urlpatterns+= staticfiles_urlpatterns()
