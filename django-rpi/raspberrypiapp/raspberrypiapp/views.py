@@ -2,10 +2,10 @@
 from django.shortcuts import render
 
 def homepage(request):
-    return render(request,'index.html')
+    return render(request,'pages/index.html')
 def services(request):
-    return render(request,'templates/services.html')
+    return render(request,'pages/services.html')
 def ourTeam(request):
-    return render(request,'templates/our_team.html')
+    return render(request,'pages/our_team.html')
 def contact(request):
-    return render(request,'templates/contact.html')
+    return render(request,'pages/contact.html')
