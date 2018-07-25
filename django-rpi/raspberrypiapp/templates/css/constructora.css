@@ -214,6 +214,9 @@ img:hover {
 	width: 50%;
 	text-align: center;
 }
+.photo4{
+	padding-left: 0;
+}
 .banner_index{
 	width: 100%;
 	z-index: 0;
