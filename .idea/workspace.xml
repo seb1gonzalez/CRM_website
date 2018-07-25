@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7618c8c-23fa-40ad-a436-1f90196ca1f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/django-rpi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/our_team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/services.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +19,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            <state relative-caret-position="345">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -88,7 +83,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1951" />
     <option name="y" value="-11" />
     <option name="width" value="974" />
@@ -170,15 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532546600981</updated>
-      <workItem from="1532546606092" duration="3239000" />
+      <workItem from="1532546606092" duration="3520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3239000" />
+    <option name="totallyTimeSpent" value="3520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1000" extended-state="7" />
+    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.153125" />
@@ -256,8 +251,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        <state relative-caret-position="345">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
