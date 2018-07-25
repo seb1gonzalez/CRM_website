@@ -215,11 +215,8 @@ img:hover {
 	text-align: center;
 }
 .photo4{
-	float: left;
-	width: 100%;
-	height: 300px;
-	background-repeat: no-repeat;
-	background-size:cover;
+	align-content: center;
+
 }
 .bannerOurTeam{
 	float: left;
