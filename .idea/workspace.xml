@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7618c8c-23fa-40ad-a436-1f90196ca1f4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/CRM_website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CRM_website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,20 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -50,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -81,8 +77,9 @@
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/index.html" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/models.py" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/index.html" />
-        <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py" />
         <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/login.html" />
+        <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/views.py" />
+        <option value="$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py" />
       </list>
     </option>
   </component>
@@ -95,7 +92,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="158" />
     <option name="y" value="761" />
     <option name="width" value="1433" />
@@ -265,20 +262,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/templates/pages/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django-rpi/raspberrypiapp/raspberrypiapp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
