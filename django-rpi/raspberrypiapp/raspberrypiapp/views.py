@@ -3,14 +3,5 @@ from django.shortcuts import render
 
 def homepage(request):
 
-    return render(request,'pages/index.html')
+    return render(request,'pages/login.html')
 
-def services(request):
-    return render(request,'pages/services.html')
-
-def ourTeam(request):
-    return render(request,'pages/our_team.html')
-
-def contact(request):
-
-    return render(request,'pages/contact.html')

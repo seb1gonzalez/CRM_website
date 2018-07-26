@@ -55,19 +55,19 @@
                 <div class="h4">SIGN UP FOR OUR NEWS LETTER</div></div>
         </div>
     </div>
-    <div class="bannerOurTeam">
-        <a name="our_team"></a>
-        <h1 class="h1">Our Team</h1>
+        <div class="bannerOurTeam">
+            <a name="our_team"></a>
+            <h1 class="h1">Our Team</h1>
+        </div>
+        <div class="content4TeamNservice">
+            <h2>OUR TEAM MEMBERS</h2>
+            <p><img src="{% static 'members.png' %}"  align="center" width="730" height="275" alt=""/></p>
+        </div>
     </div>
-    <div class="content4TeamNservice">
-        <h2>OUR TEAM MEMBERS</h2>
-        <p><img src="{% static 'members.png' %}"  align="center" width="730" height="275" alt=""/></p>
+    <div  class="serviceB">
+        <a name="services"></a>
+        <h1 class="h1">We Have The Service You Need</h1>
     </div>
-</div>
-<div  class="serviceB">
-    <a name="services"></a>
-    <h1 class="h1">We Have The Service You Need</h1>
-</div>
 </div>
 <div class="content4TeamNservice">
     <br>
@@ -98,14 +98,18 @@
         <br>
         <img src="{% static 'contactboxInfo.png' %}" width="300" height="210" alt=""/></div>
     <div class="contactBoxInput">
-        <form action ="{% url 'user:name' %}" method = "post"> {% csrf_token %}
-            <p><label for="name">Name:</label><input type="text" name="Name" value="Enter your name"/></p>
-            <p><label for="email">Email:</label><input type="text" name="Email" value="myemail@email.com"/></p>
-            <input type="submit" value="Submit">
+        <p>Name: <input id="name_input" type="text"></p>
+        <br>
+        <p>Email: <input id="email_input" type="email"></p>
+        <br>
+        <input type="submit" id="submitButton">
+        <form method="post">
+            {% csrf_token%}
+            {{ form.as_p }}
         </form>
     </div>
-    <div>
-    </div>
+   <div>
+   </div>
     <br>
     <br>
     <br>
