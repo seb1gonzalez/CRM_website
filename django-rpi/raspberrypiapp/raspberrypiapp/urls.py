@@ -5,7 +5,7 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 urlpatterns = [
     url(r'^$', views.homepage),
-    url(r'^login/$', login, {'template_name': 'pages/login.html'}),
+    url(r'^login/$', login, {'template_name': 'login.html'}),
 
 ]
 urlpatterns+= staticfiles_urlpatterns()
